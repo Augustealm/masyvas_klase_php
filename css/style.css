@@ -1,0 +1,17 @@
+table {
+    width: 60%;
+    border: solid;
+    border-color: #fffbe3;
+}
+
+th {
+    text-align: center;
+    padding: 3px;
+    background-color: #e8d148;
+}
+
+tr {
+    text-align: center;
+    padding: 3px;
+    background-color: #fffbe3;
+}
